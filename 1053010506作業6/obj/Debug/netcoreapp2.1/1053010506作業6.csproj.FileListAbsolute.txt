@@ -1,0 +1,11 @@
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/bin/Debug/netcoreapp2.1/1053010506作業6.deps.json
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/bin/Debug/netcoreapp2.1/1053010506作業6.runtimeconfig.json
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/bin/Debug/netcoreapp2.1/1053010506作業6.runtimeconfig.dev.json
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/bin/Debug/netcoreapp2.1/1053010506作業6.dll
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/bin/Debug/netcoreapp2.1/1053010506作業6.pdb
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.csprojAssemblyReference.cache
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.csproj.CoreCompileInputs.cache
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.AssemblyInfoInputs.cache
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.AssemblyInfo.cs
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.dll
+/Users/minayen1026/Desktop/1053010506作業6/1053010506作業6/obj/Debug/netcoreapp2.1/1053010506作業6.pdb
